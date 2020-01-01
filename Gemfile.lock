@@ -10,7 +10,7 @@ GIT
 
 GIT
   remote: https://github.com/unosmium/sciolyff.git
-  revision: ffef65bb7abe01ac3261282c0aa6c38937982fb0
+  revision: 33bc2365b04622611e2d69ea79b2751291230c3a
   specs:
     sciolyff (0.8.0)
       minitest (~> 5.11)
